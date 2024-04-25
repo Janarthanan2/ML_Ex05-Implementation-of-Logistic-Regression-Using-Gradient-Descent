@@ -92,29 +92,29 @@ print(y_prednew)
 ## Output:
 
 ### Dataset:
-<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/f38e0542-e307-4996-85f6-ca76711b8dd6">
+<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/f38e0542-e307-4996-85f6-ca76711b8dd6" width=50%>
 
 ### Dataset.dtypes:
-<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/c7a569d8-b4c5-4ef7-83e6-57affdc6b0f7">
+<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/c7a569d8-b4c5-4ef7-83e6-57affdc6b0f7" width=50%>
 
 ### Labeled_dataset:
-<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/e7b4981d-56b7-4733-9ad0-e95a286aec97">
+<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/e7b4981d-56b7-4733-9ad0-e95a286aec97" width=50%>
 
 ### Dependent variable Y:
-<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/714c4c29-63aa-4857-9911-4a04bcfb1835">
+<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/714c4c29-63aa-4857-9911-4a04bcfb1835" width=50%>
 
 
 ### Accuracy:
 <img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/f070b9c1-43e2-4e7b-9ddd-a504e3d877cd">
 
 ### y_pred:
-<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/cc07c9d6-9694-434b-875d-6e7ae8fa424d">
+<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/cc07c9d6-9694-434b-875d-6e7ae8fa424d" width=50%>
 
 ## Y:
-<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/f5633eb6-bb34-4944-b705-c79fa0d9a1b2">
+<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/f5633eb6-bb34-4944-b705-c79fa0d9a1b2" width=50%>
 
 ### y_pred:
-<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/19c2981a-ff8a-4fac-adca-16fb93d9890b">
+<img src="https://github.com/Janarthanan2/ML_Ex05-Implementation-of-Logistic-Regression-Using-Gradient-Descent/assets/119393515/19c2981a-ff8a-4fac-adca-16fb93d9890b" width=50%>
 
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
